@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+#container{
+	width: 90%;
+	margin: 20px auto;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td{
+	border: 1px solid #D8D8D8;
+	border-right:none;
+	padding: 10px;
+	width: 75%;
+}
+
+th{
+	border: 1px solid #D8D8D8;
+	border-left:none;
+	background-color: #FAFAFA;
+	padding: 10px;
+	width: 25%;
+}
+
+td p{
+	font-size: 15px;
+	color: black;
+}
+
+input[type="text"]{
+	height: 20px;
+}
+
+input[type="button"]{
+	height: 25px;
+	background-color: #FAFAFA;
+	border: 1px solid black;
+	margin-top: 1px;
+}
+
+select{
+	height: 25px;
+}

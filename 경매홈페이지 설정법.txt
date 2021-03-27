@@ -1,0 +1,13 @@
+프로그래밍 언어: 자바 jdk1.8
+데이터베이스 : 오라클 11g database(sqldeveloper)
+서버 어플리케이션 : 톰캣 9.0
+
+- 프로젝트 폴더는 Project 로 한다.
+
+0. OracleXEConnection.java 파일 sid 값 로컬 pc 환경에 맞게 변경.
+
+1. project.dmp 데이터베이스 덤프 떠놓은 것 옮기기(임포트)
+
+2. servers 탭 클릭 후 start the server 
+
+3. localhost:8080/Project/auction/AuctionMain.jsp 주소 입력
