@@ -34,6 +34,7 @@
 * Tomcat v9.0 서버 실행(AuctionMain.jsp)
 
 # 사진
+![0](https://user-images.githubusercontent.com/55347692/112752365-b4f71b80-900d-11eb-9799-249e50ae56b7.png)
 ![1](https://user-images.githubusercontent.com/55347692/112748162-0515b400-8ff5-11eb-8492-f6a046be9492.PNG)
 ![2](https://user-images.githubusercontent.com/55347692/112748164-06df7780-8ff5-11eb-8b8c-16fa4a6b25ac.PNG)
 ![3](https://user-images.githubusercontent.com/55347692/112748165-07780e00-8ff5-11eb-8d93-8f1642f5e9d2.PNG)
