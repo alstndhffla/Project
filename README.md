@@ -3,10 +3,11 @@
 
 # 개발환경
 * 프로그래밍 언어 - Java 8(jdk 1.8)
+  * JSP(Java Server Pages), Servelet, JavaScript, jQuery, CSS, HTML
 * 데이터베이스 - Oracle 11g database(sqldeveloper)
 
 # 데이터베이스 설정 
-오라클 DB에 project.dmp 를 임포트
+* https://www.erdcloud.com/d/YRWEvLok9yAsogsXx
 
 * AUCTION(경매정보) 
   * ANO, TITLE, CONTENTS, REGDATE, STARTTIME, ENDTIME, MAXPRICE, MINPRICE, IMGPATH, MNO, AMOUNT, CATEGORY, STATUS
