@@ -1,14 +1,14 @@
 # 경매 사이트
-* 회원끼리 경매하는 사이트(like ebay, smartstore)
+* 회원 자유 경매 사이트(like ebay, smartstore)
 
 # 개발환경
 * 프로그래밍 언어 - Java 8(jdk 1.8)
-  * JSP(Java Server Pages), Servelet, JavaScript, jQuery, CSS, HTML
+> JSP(Java Server Pages), JavaScript, CSS, HTML, Servelet,  jQuery
 * 데이터베이스 - Oracle 11g database(sqldeveloper)
+* Tomcat9.0 활용 웹 어플리케이션 동작
 
 # 데이터베이스 설정 
 * https://www.erdcloud.com/d/YRWEvLok9yAsogsXx
-
 * AUCTION(경매정보) 
   * ANO, TITLE, CONTENTS, REGDATE, STARTTIME, ENDTIME, MAXPRICE, MINPRICE, IMGPATH, MNO, AMOUNT, CATEGORY, STATUS
 * BIDDING(경매의 입찰정보) 
@@ -30,8 +30,9 @@
 * 입찰알림창(입찰금액이 경매조건에 맞거나 제한시간내에 최고입찰금일 경우)
 * 경매물품 질문(게시판)
 * 사이트 이용시 질문(게시판)
-
-* Tomcat v9.0 서버 실행(AuctionMain.jsp)
+> Servlet.MultipartRequest 활용 경매 등록/수정 파일 업로드 구현
+> jQuery의 ajax 활용 로그인, 회원가입/수정, 경매 등록 등의 유효성 검사를 비동기 방식으로 구현
+> Tomcat v9.0 웹 어플리케이션 실행(AuctionMain.jsp)
 
 # 사진
 ![0](https://user-images.githubusercontent.com/55347692/112752365-b4f71b80-900d-11eb-9799-249e50ae56b7.png)
