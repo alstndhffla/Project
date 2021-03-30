@@ -31,7 +31,9 @@
 * 경매물품 질문(게시판)
 * 사이트 이용시 질문(게시판)
 > Servlet.MultipartRequest 활용 경매 등록/수정 파일 업로드 구현
+
 > jQuery의 ajax 활용 로그인, 회원가입/수정, 경매 등록 등의 유효성 검사를 비동기 방식으로 구현
+
 > Tomcat v9.0 웹 어플리케이션 실행(AuctionMain.jsp)
 
 # 사진
